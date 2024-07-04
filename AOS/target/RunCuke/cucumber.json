@@ -1,0 +1,81 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-07-04T07:34:12.204Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3852286100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.aos.specification.AosSpecification.setup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Book ticket for Dubai to Jeddah",
+        "description": "",
+        "id": "book-ticket;book-ticket-for-dubai-to-jeddah",
+        "after": [
+          {
+            "result": {
+              "duration": 680724200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.aos.specification.AosSpecification.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7497762700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I want to open the application",
+            "match": {
+              "location": "com.aos.specification.AosSpecification.openWebsite()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 237205558700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "book a flight ticket for \"dubai_to_jeddah\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "dubai_to_jeddah",
+                  "offset": 26
+                }
+              ],
+              "location": "com.aos.specification.AosSpecification.bookTicket(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test1"
+          }
+        ]
+      }
+    ],
+    "name": "Book Ticket",
+    "description": "  I want to use this feature file to test ticket booking scenarios",
+    "id": "book-ticket",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/BookTicket2.feature",
+    "tags": []
+  }
+]

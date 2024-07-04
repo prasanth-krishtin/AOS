@@ -1,0 +1,191 @@
+2024-07-03 15:14:52 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-03 15:14:52 INFO  AosSpecification:107 - Enter the origin input: AUH
+2024-07-03 15:14:54 INFO  AosSpecification:118 - Enter the Destination input: LHR
+2024-07-03 15:15:01 INFO  AosSpecification:139 - Selecting the Departure date: 09 Jul 2024
+2024-07-03 15:15:10 INFO  AosSpecification:160 - Selecting the class: Economy
+2024-07-03 15:15:20 INFO  AosSpecification:177 - Waiting for search Flight Button to be clickable
+2024-07-03 15:15:26 INFO  AosSpecification:185 - Checking the origin and Destination as per search
+2024-07-03 15:15:27 INFO  AosSpecification:226 - adultPassengersCount->1
+2024-07-03 15:15:27 INFO  AosSpecification:227 - childPassengersCount->1
+2024-07-03 15:15:27 INFO  AosSpecification:228 - infantPassengersCount->1
+2024-07-03 15:15:27 INFO  AosSpecification:232 - Selecting the filter for Airlines: Etihad
+2024-07-03 15:15:37 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-03 15:15:37 INFO  AosSpecification:107 - Enter the origin input: DXB
+2024-07-03 15:17:04 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-03 15:17:04 INFO  AosSpecification:107 - Enter the origin input: AUH
+2024-07-03 15:17:08 INFO  AosSpecification:118 - Enter the Destination input: LHR
+2024-07-03 15:17:15 INFO  AosSpecification:139 - Selecting the Departure date: 09 Jul 2024
+2024-07-03 15:17:24 INFO  AosSpecification:160 - Selecting the class: Economy
+2024-07-03 15:17:34 INFO  AosSpecification:177 - Waiting for search Flight Button to be clickable
+2024-07-03 15:38:04 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-03 15:38:05 INFO  AosSpecification:107 - Enter the origin input: AUH
+2024-07-03 15:38:06 INFO  AosSpecification:118 - Enter the Destination input: LHR
+2024-07-03 15:38:12 INFO  AosSpecification:139 - Selecting the Departure date: 09 Jul 2024
+2024-07-03 15:38:20 INFO  AosSpecification:160 - Selecting the class: Economy
+2024-07-03 15:38:30 INFO  AosSpecification:177 - Waiting for search Flight Button to be clickable
+2024-07-03 15:45:37 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-03 15:45:37 INFO  AosSpecification:107 - Enter the origin input: AUH
+2024-07-03 15:45:40 INFO  AosSpecification:118 - Enter the Destination input: LHR
+2024-07-03 15:45:46 INFO  AosSpecification:139 - Selecting the Departure date: 09 Jul 2024
+2024-07-03 15:45:58 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-03 16:02:21 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-03 16:02:21 INFO  AosSpecification:107 - Enter the origin input: DXB
+2024-07-03 16:02:23 INFO  AosSpecification:118 - Enter the Destination input: DOH
+2024-07-03 16:02:31 INFO  AosSpecification:139 - Selecting the Departure date: 09 Jul 2024
+2024-07-03 16:02:41 INFO  AosSpecification:160 - Selecting the class: Economy
+2024-07-03 16:02:51 INFO  AosSpecification:177 - Waiting for search Flight Button to be clickable
+2024-07-03 16:02:52 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-03 16:03:05 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-03 16:03:06 INFO  AosSpecification:107 - Enter the origin input: DXB
+2024-07-03 16:03:08 INFO  AosSpecification:118 - Enter the Destination input: RUH
+2024-07-03 16:03:12 INFO  AosSpecification:139 - Selecting the Departure date: 07 Jul 2024
+2024-07-03 16:04:31 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-03 16:04:32 INFO  AosSpecification:107 - Enter the origin input: DXB
+2024-07-03 16:04:33 INFO  AosSpecification:118 - Enter the Destination input: JED
+2024-07-03 16:04:40 INFO  AosSpecification:139 - Selecting the Departure date: 09 Jul 2024
+2024-07-04 12:00:19 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-04 12:00:29 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-04 12:00:30 INFO  AosSpecification:107 - Enter the origin input: DXB
+2024-07-04 12:00:30 INFO  AosSpecification:118 - Enter the Destination input: RUH
+2024-07-04 12:00:36 INFO  AosSpecification:139 - Selecting the Departure date: 08 Jul 2024
+2024-07-04 12:01:10 INFO  AosSpecification:160 - Selecting the class: Economy
+2024-07-04 12:01:21 INFO  AosSpecification:177 - Waiting for search Flight Button to be clickable
+2024-07-04 12:03:30 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-04 12:03:39 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-04 12:03:39 INFO  AosSpecification:107 - Enter the origin input: DXB
+2024-07-04 12:03:40 INFO  AosSpecification:118 - Enter the Destination input: RUH
+2024-07-04 12:03:43 INFO  AosSpecification:139 - Selecting the Departure date: 08 Jul 2024
+2024-07-04 12:03:51 INFO  AosSpecification:160 - Selecting the class: Economy
+2024-07-04 12:04:01 INFO  AosSpecification:177 - Waiting for search Flight Button to be clickable
+2024-07-04 12:04:11 INFO  AosSpecification:185 - Checking the origin and Destination as per search
+2024-07-04 12:04:12 INFO  AosSpecification:226 - adultPassengersCount->1
+2024-07-04 12:04:12 INFO  AosSpecification:227 - childPassengersCount->0
+2024-07-04 12:04:12 INFO  AosSpecification:228 - infantPassengersCount->0
+2024-07-04 12:04:12 INFO  AosSpecification:232 - Selecting the filter for Airlines: Qatar Airways
+2024-07-04 12:04:22 INFO  AosSpecification:247 - Selecting the Flight
+2024-07-04 12:05:54 INFO  AosSpecification:260 - Click the Booknow Button
+2024-07-04 12:06:05 INFO  AosImplementation:126 - Selecting the Title: Mr
+2024-07-04 12:06:06 INFO  AosImplementation:134 - Enter the First Name: Shebin
+2024-07-04 12:06:07 INFO  AosImplementation:141 - Enter the Last Name: Al Latheef
+2024-07-04 12:06:07 INFO  AosImplementation:150 - Selecting the Date of Birth Day: 06
+2024-07-04 12:06:07 INFO  AosImplementation:157 - Selecting the Date of Birth Month: June
+2024-07-04 12:06:08 INFO  AosImplementation:165 - Selecting the Date of Birth Year: 1991
+2024-07-04 12:06:08 INFO  AosImplementation:171 - Selecting the Issuing Country: India
+2024-07-04 12:06:10 INFO  AosImplementation:183 - Selecting the Nationality: India
+2024-07-04 12:06:10 INFO  AosImplementation:192 - Selecting the Passport Issue Day : 06
+2024-07-04 12:06:10 INFO  AosImplementation:200 - Selecting the Passport Issue Month : June
+2024-07-04 12:06:11 INFO  AosImplementation:208 - Selecting the Passport Issue Year : 2019
+2024-07-04 12:06:11 INFO  AosImplementation:216 - Selecting the Passport Expriry Day : 07
+2024-07-04 12:06:11 INFO  AosImplementation:224 - Selecting the Passport Expriry Month : June
+2024-07-04 12:06:12 INFO  AosImplementation:232 - Selecting the Passport Expriry Year : 2030
+2024-07-04 12:06:12 INFO  AosImplementation:240 - Enter the passport No : Y435435
+2024-07-04 12:06:12 INFO  AosSpecification:306 - Enter the Email: arunrv48@gmail.com
+2024-07-04 12:06:13 INFO  AosSpecification:310 - Selecting the Country Mobile: +43 Austria
+2024-07-04 12:06:13 INFO  AosSpecification:317 - Enter the Mobile No: 8877867876
+2024-07-04 12:06:14 INFO  AosSpecification:321 - Click the continue To Payment Button
+2024-07-04 12:06:15 INFO  AosSpecification:327 - Click the process To Pay Button
+2024-07-04 12:06:19 INFO  AosSpecification:340 - Enter the card No: 4005550000000001
+2024-07-04 12:06:29 INFO  AosSpecification:345 - Enter card Expiry Date: 05/25
+2024-07-04 12:06:30 INFO  AosSpecification:349 - Enter card Cvv: 123
+2024-07-04 12:06:30 INFO  AosSpecification:353 - Enter card Holder Name: Test
+2024-07-04 12:06:30 INFO  AosSpecification:357 - Click the Pay Button
+2024-07-04 12:06:30 INFO  AosImplementation:251 - Your booking is Confirmed
+2024-07-04 12:08:00 INFO  AosImplementation:267 - Your booking is Pending
+2024-07-04 12:09:31 INFO  AosImplementation:283 - Your booking is On hold
+2024-07-04 12:11:01 INFO  AosImplementation:297 - Ticket booking is unsuccessful
+2024-07-04 12:14:14 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-04 12:14:23 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-04 12:14:24 INFO  AosSpecification:107 - Enter the origin input: DXB
+2024-07-04 12:14:25 INFO  AosSpecification:118 - Enter the Destination input: RUH
+2024-07-04 12:14:29 INFO  AosSpecification:139 - Selecting the Departure date: 08 Jul 2024
+2024-07-04 12:14:37 INFO  AosSpecification:160 - Selecting the class: Economy
+2024-07-04 12:14:47 INFO  AosSpecification:177 - Waiting for search Flight Button to be clickable
+2024-07-04 12:14:57 INFO  AosSpecification:185 - Checking the origin and Destination as per search
+2024-07-04 12:14:58 INFO  AosSpecification:226 - adultPassengersCount->1
+2024-07-04 12:14:58 INFO  AosSpecification:227 - childPassengersCount->0
+2024-07-04 12:14:58 INFO  AosSpecification:228 - infantPassengersCount->0
+2024-07-04 12:14:58 INFO  AosSpecification:232 - Selecting the filter for Airlines: Qatar Airways
+2024-07-04 12:15:09 INFO  AosSpecification:247 - Selecting the Flight
+2024-07-04 12:16:40 INFO  AosSpecification:260 - Click the Booknow Button
+2024-07-04 12:16:47 INFO  AosImplementation:126 - Selecting the Title: Mr
+2024-07-04 12:16:47 INFO  AosImplementation:134 - Enter the First Name: Shebin
+2024-07-04 12:16:48 INFO  AosImplementation:141 - Enter the Last Name: Al Latheef
+2024-07-04 12:16:49 INFO  AosImplementation:150 - Selecting the Date of Birth Day: 06
+2024-07-04 12:16:49 INFO  AosImplementation:157 - Selecting the Date of Birth Month: June
+2024-07-04 12:16:49 INFO  AosImplementation:165 - Selecting the Date of Birth Year: 1991
+2024-07-04 12:16:49 INFO  AosImplementation:171 - Selecting the Issuing Country: India
+2024-07-04 12:16:51 INFO  AosImplementation:183 - Selecting the Nationality: India
+2024-07-04 12:16:52 INFO  AosImplementation:192 - Selecting the Passport Issue Day : 06
+2024-07-04 12:16:52 INFO  AosImplementation:200 - Selecting the Passport Issue Month : June
+2024-07-04 12:16:53 INFO  AosImplementation:208 - Selecting the Passport Issue Year : 2019
+2024-07-04 12:16:53 INFO  AosImplementation:216 - Selecting the Passport Expriry Day : 07
+2024-07-04 12:16:53 INFO  AosImplementation:224 - Selecting the Passport Expriry Month : June
+2024-07-04 12:16:54 INFO  AosImplementation:232 - Selecting the Passport Expriry Year : 2030
+2024-07-04 12:16:54 INFO  AosImplementation:240 - Enter the passport No : Y435435
+2024-07-04 12:16:55 INFO  AosSpecification:306 - Enter the Email: arunrv48@gmail.com
+2024-07-04 12:16:55 INFO  AosSpecification:310 - Selecting the Country Mobile: +43 Austria
+2024-07-04 12:16:56 INFO  AosSpecification:317 - Enter the Mobile No: 8877867876
+2024-07-04 12:16:56 INFO  AosSpecification:321 - Click the continue To Payment Button
+2024-07-04 12:16:57 INFO  AosSpecification:327 - Click the process To Pay Button
+2024-07-04 12:17:00 INFO  AosSpecification:340 - Enter the card No: 4005550000000001
+2024-07-04 12:17:10 INFO  AosSpecification:345 - Enter card Expiry Date: 05/25
+2024-07-04 12:17:10 INFO  AosSpecification:349 - Enter card Cvv: 123
+2024-07-04 12:17:10 INFO  AosSpecification:353 - Enter card Holder Name: Test
+2024-07-04 12:17:10 INFO  AosSpecification:357 - Click the Pay Button
+2024-07-04 12:17:11 INFO  AosImplementation:251 - Your booking is Confirmed
+2024-07-04 12:18:41 INFO  AosImplementation:267 - Your booking is Pending
+2024-07-04 12:20:11 INFO  AosImplementation:283 - Your booking is On hold
+2024-07-04 12:21:41 INFO  AosImplementation:297 - Ticket booking is unsuccessful
+2024-07-04 13:04:23 INFO  AosSpecification:103 - Waiting for one way tab to be clickable
+2024-07-04 13:04:24 INFO  AosSpecification:107 - Enter the origin input: DXB
+2024-07-04 13:04:25 INFO  AosSpecification:118 - Enter the Destination input: JED
+2024-07-04 13:04:31 INFO  AosSpecification:139 - Selecting the Departure date: 10 Jul 2024
+2024-07-04 13:04:39 INFO  AosSpecification:160 - Selecting the class: Economy
+2024-07-04 13:04:50 INFO  AosSpecification:177 - Waiting for search Flight Button to be clickable
+2024-07-04 13:05:01 INFO  AosSpecification:185 - Checking the origin and Destination as per search
+2024-07-04 13:05:02 INFO  AosSpecification:226 - adultPassengersCount->3
+2024-07-04 13:05:02 INFO  AosSpecification:227 - childPassengersCount->2
+2024-07-04 13:05:02 INFO  AosSpecification:228 - infantPassengersCount->1
+2024-07-04 13:05:02 INFO  AosSpecification:232 - Selecting the filter for Airlines: Saudi
+2024-07-04 13:05:13 INFO  AosSpecification:247 - Selecting the Flight
+2024-07-04 13:06:44 INFO  AosSpecification:260 - Click the Booknow Button
+2024-07-04 13:06:54 INFO  AosImplementation:126 - Selecting the Title: Mr
+2024-07-04 13:06:55 INFO  AosImplementation:134 - Enter the First Name: Shebin
+2024-07-04 13:06:57 INFO  AosImplementation:141 - Enter the Last Name: Al Latheef
+2024-07-04 13:07:00 INFO  AosImplementation:150 - Selecting the Date of Birth Day: 06
+2024-07-04 13:07:01 INFO  AosImplementation:157 - Selecting the Date of Birth Month: June
+2024-07-04 13:07:03 INFO  AosImplementation:165 - Selecting the Date of Birth Year: 1991
+2024-07-04 13:07:04 INFO  AosImplementation:171 - Selecting the Issuing Country: India
+2024-07-04 13:07:07 INFO  AosImplementation:183 - Selecting the Nationality: India
+2024-07-04 13:07:09 INFO  AosImplementation:192 - Selecting the Passport Issue Day : 06
+2024-07-04 13:07:11 INFO  AosImplementation:200 - Selecting the Passport Issue Month : June
+2024-07-04 13:07:13 INFO  AosImplementation:208 - Selecting the Passport Issue Year : 2019
+2024-07-04 13:07:15 INFO  AosImplementation:216 - Selecting the Passport Expriry Day : 07
+2024-07-04 13:07:17 INFO  AosImplementation:224 - Selecting the Passport Expriry Month : June
+2024-07-04 13:07:19 INFO  AosImplementation:232 - Selecting the Passport Expriry Year : 2030
+2024-07-04 13:07:21 INFO  AosImplementation:240 - Enter the passport No : Y435435
+2024-07-04 13:07:27 INFO  AosImplementation:126 - Selecting the Title: Mr
+2024-07-04 13:07:28 INFO  AosImplementation:134 - Enter the First Name: Abdul
+2024-07-04 13:07:30 INFO  AosImplementation:141 - Enter the Last Name: Basit
+2024-07-04 13:07:34 INFO  AosImplementation:150 - Selecting the Date of Birth Day: 20
+2024-07-04 13:07:35 INFO  AosImplementation:157 - Selecting the Date of Birth Month: September
+2024-07-04 13:07:37 INFO  AosImplementation:165 - Selecting the Date of Birth Year: 1999
+2024-07-04 13:07:37 INFO  AosImplementation:171 - Selecting the Issuing Country: Pakistan
+2024-07-04 13:07:40 INFO  AosImplementation:183 - Selecting the Nationality: Pakistan
+2024-07-04 13:07:42 INFO  AosImplementation:192 - Selecting the Passport Issue Day : 15
+2024-07-04 13:07:44 INFO  AosImplementation:200 - Selecting the Passport Issue Month : May
+2024-07-04 13:07:46 INFO  AosImplementation:208 - Selecting the Passport Issue Year : 2015
+2024-07-04 13:07:48 INFO  AosImplementation:216 - Selecting the Passport Expriry Day : 07
+2024-07-04 13:07:50 INFO  AosImplementation:224 - Selecting the Passport Expriry Month : August
+2024-07-04 13:07:52 INFO  AosImplementation:232 - Selecting the Passport Expriry Year : 2032
+2024-07-04 13:07:54 INFO  AosImplementation:240 - Enter the passport No : T7676766
+2024-07-04 13:08:00 INFO  AosImplementation:126 - Selecting the Title: Mr
+2024-07-04 13:08:01 INFO  AosImplementation:134 - Enter the First Name: Subin
+2024-07-04 13:08:03 INFO  AosImplementation:141 - Enter the Last Name: Suresh
+2024-07-04 13:08:06 INFO  AosImplementation:150 - Selecting the Date of Birth Day: 20
+2024-07-04 13:08:08 INFO  AosImplementation:157 - Selecting the Date of Birth Month: August
+2024-07-04 13:08:10 INFO  AosImplementation:165 - Selecting the Date of Birth Year: 1985
+2024-07-04 13:08:11 INFO  AosImplementation:171 - Selecting the Issuing Country: United Arab Emirates
+2024-07-04 13:08:14 INFO  AosImplementation:183 - Selecting the Nationality: United Arab Emirates
+2024-07-04 13:08:16 INFO  AosImplementation:192 - Selecting the Passport Issue Day : 05
+2024-07-04 13:08:18 INFO  AosImplementation:200 - Selecting the Passport Issue Month : Jan
